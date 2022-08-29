@@ -1,10 +1,10 @@
-## Personal Website for Haoming Shi
+## Personal website for Haoming Shi
 
 This is the personal website source code for Haoming Shi. <br />
 This website was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
 Current react version: 18.2.0, Node.js version: v16.1.0.
 
-## Available Scripts to Run Local Demo
+## Available scripts to run local demo
 
 In the project directory, you can run:
 
