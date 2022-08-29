@@ -1,0 +1,21 @@
+// Developed by Chouseki for Haoming
+// Last modifed date: Aug 23, 2022
+// Change: changed main color black
+
+$fonthead: 'Rubik', sans-serif;
+$fontstack: 'Rubik', sans-serif;
+// $colordark: #132c33;
+// $colordark: #134857; //苍蓝
+$colordark: #132c33; // 深灰蓝
+$coloryellow: #F28e16;
+$colorpink: #F28e16;
+// $colorblue: #6C6CE5; 
+$colorblue: #BACCD9; // 云水蓝
+// $colordefault: #454360;
+$colordefault: #BACCD9;
+
+@mixin transition($second) {
+  -webkit-transition: all $second ease-in-out;
+    -moz-transition: all $second ease-in-out;
+        transition: all $second ease-in-out;
+}
