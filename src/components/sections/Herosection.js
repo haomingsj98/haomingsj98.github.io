@@ -51,7 +51,7 @@ function Herosection(props) {
 
           <ul className="social-icons light list-inline mb-0 mt-4">
             <li className="list-inline-item">
-              <a href="/">
+              <a href="https://github.com/haomingsj98">
                 <i className="fab fa-github"></i>
               </a>
             </li>
@@ -66,7 +66,7 @@ function Herosection(props) {
               </a>
             </li>
             <li className="list-inline-item">
-              <a href="/">
+              <a href="weixin://dl/chat?megumi123456789">
                 <i className="fab fa-weixin"></i>
               </a>
             </li>
