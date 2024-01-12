@@ -11,7 +11,7 @@ const servicesData = [
   {
     id: 1,
     icon: "images/kumiko_pic/biostats_icon.png",
-    title: "Biostatistics",
+    title: "Optimization",
     color: "#a7b8a0",
     contentColor: "light",
   },
@@ -37,6 +37,12 @@ const servicesData = [
     id: 5,
     title: "Machine Learning",
     color: "#a7b8a0",
+    contentColor: "dark",
+  },
+  {
+    id: 6,
+    title: "Biostatistics",
+    color: "#497566",
     contentColor: "dark",
   },
 ];

@@ -16,7 +16,7 @@ const aboutContent = {
 const progressData = [
   {
     id: 1,
-    title: "Biostatistics",
+    title: "Optimization",
     percantage: 85,
     progressColor: "#497466",
   },
@@ -84,7 +84,7 @@ function About() {
             <div className="rounded bg-white shadow-dark padding-30">
               <div className="row">
                 <div className="col-md-6">
-                  <p>I am a PhD student in the <a href="https://statistics.rice.edu/"> Department of Statistics at Rice University</a> since August 2022. I received Bachelor of Science degree in Financial Math and Statistics from <a href="https://www.pstat.ucsb.edu/">UCSB</a>.  I am currently working on a project of predicting TmS value using breast cancer cell features under <a href="https://odin.mdacc.tmc.edu/~wwang7/index.html">Dr. Wenyi Wang’s lab at MD Anderson</a>. </p>
+                  <p>I am a PhD student in the <a href="https://statistics.rice.edu/"> Department of Statistics at Rice University</a> since August 2022. I received Bachelor of Science degree in Financial Math and Statistics from <a href="https://www.pstat.ucsb.edu/">UCSB</a>. I am currently working with <a href="https://www.ericchi.com/">Dr. Eric Chi</a> on robust spatial temporal modelling. </p>
                   <div className="mt-3">
                     <a href="/files/Resume_Haoming_Shi.pdf" className="btn btn-default">
                       Download CV
