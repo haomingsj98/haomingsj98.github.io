@@ -22,7 +22,7 @@ repository               : "haomingsj98/haomingshi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/haomingshi_photo.jpg"
+  avatar           : "/images/profile.jpg"
   name             : "Haoming Shi"
   pronouns         : # example: "He/Him"  
   bio              : "PhD Student in Statistics"
