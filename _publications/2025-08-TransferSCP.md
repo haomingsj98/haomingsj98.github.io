@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2025-08-TransferSCP
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-07-12
-venue: 'Arxiv'
+date: 2025-08-12
+venue: 'Proceedings of The Inaugural Workshop on Frontiers in Statistical Machine Learning'
 authors: "Liu, X., Yan, H.,<strong>Shi, H.<strong>, Montellier, E., Chi, E., Hainaut, P. and Wang, W."
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: #'https://arxiv.org/abs/2507.09380'
