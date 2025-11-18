@@ -16,6 +16,7 @@ Outside of research, I love travelling, hiking, and soccer. I am also an (acoust
 
 News
 ======
+- Nov 2025: I am pleased to annouce that I am awarded for the [Ken Kennedy Institute - HPE Cray Graduate Fellowship](https://kenkennedy.rice.edu/sponsored-fellowships) for 2025 - 2026. I would like to express my sincere gratitude to HPE Cray for their generous sponsorship and support! Thank you!
 - July 2025: Our paper "Robust Spatiotemporal Epidemic Modeling with Integrated Adaptive Outlier Detection" is accepted for a poster presentation at [Texas-Louisiana Section of SIAM 8th Annual Meeting](https://sites.google.com/view/siamtxla2025/home?authuser=0) in September!
 - July 2025：Our paper "Robust Spatiotemporal Epidemic Modeling with Integrated Adaptive Outlier Detection" is now on [arXiv](https://arxiv.org/abs/2507.09380)!
 - May 2025: Our work "Transfer Learning for Survival-based Clustering of Predictors with an Application to TP53 Mutation Annotation" has been selected by [IMS FSML](https://fsmlims.wixsite.com/fsml25) 2025 and received the IMS FSML Travel Award.
