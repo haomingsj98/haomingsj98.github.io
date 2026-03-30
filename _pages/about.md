@@ -16,6 +16,7 @@ Outside of research, I love travelling, hiking, and soccer. I am also an (acoust
 
 News
 ======
+- March 2026：Our paper "Asymptotic Optimism for Tensor Regression Models with Applications to Neural Network Compression" is now on [arXiv](https://arxiv.org/abs/2603.26048)!
 - Nov 2025: I am pleased to annouce that I am awarded for the [Ken Kennedy Institute - HPE Cray Graduate Fellowship](https://kenkennedy.rice.edu/sponsored-fellowships) for 2025 - 2026. I would like to express my sincere gratitude to HPE Cray for their generous sponsorship and support! Thank you!
 - July 2025: Our paper "Robust Spatiotemporal Epidemic Modeling with Integrated Adaptive Outlier Detection" is accepted for a poster presentation at [Texas-Louisiana Section of SIAM 8th Annual Meeting](https://sites.google.com/view/siamtxla2025/home?authuser=0) in September!
 - July 2025：Our paper "Robust Spatiotemporal Epidemic Modeling with Integrated Adaptive Outlier Detection" is now on [arXiv](https://arxiv.org/abs/2507.09380)!
